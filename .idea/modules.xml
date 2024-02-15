@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/+MboaEx.iml" filepath="$PROJECT_DIR$/.idea/+MboaEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Crypto_Buy_System-houshmand/.idea/Crypto_Buy_System-houshmand.iml" filepath="$PROJECT_DIR$/../Crypto_Buy_System-houshmand/.idea/Crypto_Buy_System-houshmand.iml" />
+    </modules>
+  </component>
+</project>
